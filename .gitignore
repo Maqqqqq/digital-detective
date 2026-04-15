@@ -1,0 +1,15 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# CLI output artifacts
+ip_*.txt
+n_*.txt
+un_*.txt

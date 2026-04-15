@@ -1,0 +1,13 @@
+platforms:
+  - name: "X"
+    url_pattern: "https://x.com/{username}"
+  - name: "Facebook"
+    url_pattern: "https://www.facebook.com/{username}"
+  - name: "Instagram"
+    url_pattern: "https://www.instagram.com/{username}/"
+  - name: "LinkedIn"
+    url_pattern: "https://www.linkedin.com/in/{username}/"
+  - name: "GitHub"
+    url_pattern: "https://github.com/{username}"
+  - name: "Reddit"
+    url_pattern: "https://www.reddit.com/user/{username}/"
