@@ -14,6 +14,10 @@ This project is for education and authorized research only. Do not use it to col
 - **IP lookup** – Query both [IP-API](https://ip-api.com/) and [ipwho.is](https://ipwho.is/) for ISP, organization, and location details.
 - **Name search** – Scrape FastPeopleSearch (via Scrape.do) for possible matches, including age, location, phone, and profile URL when available.
 
+## Limitation
+
+Full name search is intentionally limited and incomplete because access to legal name-search databases is restricted. This feature is a constrained learning exercise, not a complete investigation tool.
+
 ## Getting Started
 
 ### Requirements
