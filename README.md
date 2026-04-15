@@ -5,6 +5,10 @@ Digital Detective is a Python CLI tool for quick OSINT-style lookups against use
 ## Author
 - Markus Stamm
 
+## Educational Use Only
+
+This project is for education and authorized research only. Do not use it to collect, enrich, or publish information about people without permission or a lawful reason.
+
 ## Features
 - **Username check** – Probe a configurable list of platforms to see if a username appears to exist.
 - **IP lookup** – Query both [IP-API](https://ip-api.com/) and [ipwho.is](https://ipwho.is/) for ISP, organization, and location details.
